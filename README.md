@@ -1,5 +1,5 @@
 # CapCut_video_editing
-Edited video in CapCut app for
+Edited video in CapCut app for Instagram reels or YouTube shorts
 
 
 
